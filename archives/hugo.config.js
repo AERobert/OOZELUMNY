@@ -1,6 +1,6 @@
-window.hugojs_options = {
+        window.hugojs_options = {
     // URL to the game file
-    story: "AWARD.HEX",
+    story: "lc.hex",
 
     // is autosave enabled?
     autosave: true,
